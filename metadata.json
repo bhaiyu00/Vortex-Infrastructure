@@ -1,0 +1,6 @@
+{
+  "name": "VORTEX Infrastructure & Civil Engineering",
+  "description": "High-end website for VORTEX Infrastructure & Civil Engineering featuring a cinematic scroll-driven construction truck journey, interactive project cost calculator, and architectural portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
